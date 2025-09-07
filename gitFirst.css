@@ -1,0 +1,10 @@
+/* designing of website */
+
+body{
+    color: aqua;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
